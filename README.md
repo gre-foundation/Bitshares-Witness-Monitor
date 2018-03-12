@@ -15,5 +15,3 @@ By requesting the asset's feeds and checking against your witness name (configur
 ## Dependencies 
 - [Python Bitshares by @xeroc](https://github.com/xeroc/python-bitshares/)
 - A telegram bot token so you can receive notifications 
-
-*If you have any remarks/feedback or questions, please let me know! If you find this script useful, feel free to support my witness activities by voting for me on Bitshares username: `roelandp`.*
